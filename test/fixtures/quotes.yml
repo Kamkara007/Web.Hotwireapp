@@ -1,0 +1,16 @@
+# test/fixtures/quotes.yml
+
+first:
+  name: First quote
+
+second:
+  name: Second quote
+
+third:
+  name: Third quote
+
+four:
+ name: Four quote
+
+five:
+  name: Five quote
